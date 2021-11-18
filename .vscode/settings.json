@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp"
+    }
+} // {
+//     "C_Cpp.errorSquiggles": "Disabled"
+// } // {
+//     "C_Cpp.errorSquiggles": "Disabled"
+// }
