@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1638811561 source:c:\users\lenovo\desktop\snack_game\gameover_screen.cpp
+	<iostream>
+	<graphics.h>
+
+1266090614 d:\src\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1639165966 source:c:\users\lenovo\desktop\snack_game\main.cpp
+	<queue>
+	<graphics.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1638810755 source:c:\users\lenovo\desktop\snack_game\snack_functions.cpp
+
+1638811479 c:\users\lenovo\desktop\snack_game\gameover_screen.cpp
+	<iostream>
+	<graphics.h>
+
